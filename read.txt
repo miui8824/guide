@@ -1,11 +1,1 @@
 hello git losg
-2.hello world 
-3，hello is get
-4,less++
-5,git less
-6,??dev??
-<<<<<<< HEAD
-mastr??
-=======
-7,?????
->>>>>>> dds
